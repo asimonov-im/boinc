@@ -1,0 +1,244 @@
+10
+
+dir
+25528
+http://boinc.berkeley.edu/svn/trunk/boinc/locale
+http://boinc.berkeley.edu/svn
+
+
+
+2012-03-28T18:36:21.230364Z
+25503
+romw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+677681c0-c3c0-48b4-bd46-92119ef6d97a
+
+sv_SE
+dir
+
+uk
+dir
+
+da
+dir
+
+be
+dir
+
+fa
+dir
+
+bg
+dir
+
+de
+dir
+
+ja
+dir
+
+he
+dir
+
+fi
+dir
+
+nb
+dir
+
+pt_BR
+dir
+
+fr
+dir
+
+nl
+dir
+
+hr
+dir
+
+pl
+dir
+
+nn
+dir
+
+hu
+dir
+
+lt
+dir
+
+ro
+dir
+
+lv
+dir
+
+copy_files.php
+file
+
+
+
+
+2012-04-03T00:53:39.200347Z
+cd4c03ebcf055bbab9668c351f9f7917
+2009-05-19T20:55:43.178167Z
+18165
+davea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+466
+
+ca
+dir
+
+tr
+dir
+
+ru
+dir
+
+pt_PT
+dir
+
+zh_TW
+dir
+
+templates
+dir
+
+el
+dir
+
+zh_CN
+dir
+
+ar
+dir
+
+gl
+dir
+
+updatetrans.sh
+file
+
+
+
+
+2012-04-03T00:53:39.200347Z
+007eef827454cc39e6afa6c0136d0403
+2011-12-16T00:55:04.699111Z
+24813
+romw
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4702
+
+cs
+dir
+
+es
+dir
+
+ko
+dir
+
+Makefile.am
+file
+
+
+
+
+2012-04-03T00:53:39.200347Z
+e8e59f85c1d2b6eddb954e721882d73a
+2010-07-13T20:34:12.592392Z
+21915
+romw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+746
+
+cy
+dir
+
+it
+dir
+
+sk
+dir
+
+sl
+dir
+

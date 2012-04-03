@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/25521/trunk/boinc/sched
+END
+sched_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/18826/trunk/boinc/sched/sched_main.h
+END
+sched_assign.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/25169/trunk/boinc/sched/sched_assign.h
+END
+census.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/25017/trunk/boinc/sched/census.cpp
+END
+sched_timezone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/22891/trunk/boinc/sched/sched_timezone.cpp
+END
+sched_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21181/trunk/boinc/sched/sched_version.h
+END
+sched_driver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/22033/trunk/boinc/sched/sched_driver.cpp
+END
+delete_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/25341/trunk/boinc/sched/delete_file.cpp
+END
+db_dump_spec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9608/trunk/boinc/sched/db_dump_spec.xml
+END
+edf_sim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22906/trunk/boinc/sched/edf_sim.cpp
+END
+put_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/25341/trunk/boinc/sched/put_file.cpp
+END
+antique_file_deleter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/25351/trunk/boinc/sched/antique_file_deleter.cpp
+END
+pymw_assimilator.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/18545/trunk/boinc/sched/pymw_assimilator.py
+END
+time_stats_log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/22647/trunk/boinc/sched/time_stats_log.cpp
+END
+validate_util2.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21894/trunk/boinc/sched/validate_util2.h
+END
+get_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/25341/trunk/boinc/sched/get_file.cpp
+END
+make_work.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22647/trunk/boinc/sched/make_work.cpp
+END
+sched_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/25477/trunk/boinc/sched/sched_types.h
+END
+sched_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/25432/trunk/boinc/sched/sched_config.h
+END
+message_handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/22647/trunk/boinc/sched/message_handler.cpp
+END
+file_deleter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/25379/trunk/boinc/sched/file_deleter.cpp
+END
+sched_msgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21795/trunk/boinc/sched/sched_msgs.h
+END
+sched_limit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23978/trunk/boinc/sched/sched_limit.cpp
+END
+sched_shmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/25017/trunk/boinc/sched/sched_shmem.h
+END
+sched_customize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/25467/trunk/boinc/sched/sched_customize.cpp
+END
+sched_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/25169/trunk/boinc/sched/sched_util.h
+END
+wu_check.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/22647/trunk/boinc/sched/wu_check.cpp
+END
+feeder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/25432/trunk/boinc/sched/feeder.cpp
+END
+trickle_handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/24227/trunk/boinc/sched/trickle_handler.cpp
+END
+sched_version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/25505/trunk/boinc/sched/sched_version.cpp
+END
+transitioner_catchup.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/22959/trunk/boinc/sched/transitioner_catchup.php
+END
+plan_class_spec.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/25467/trunk/boinc/sched/plan_class_spec.h
+END
+sample_dummy_assimilator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16069/trunk/boinc/sched/sample_dummy_assimilator.cpp
+END
+sched_send.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/25419/trunk/boinc/sched/sched_send.h
+END
+sched_timezone.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/16726/trunk/boinc/sched/sched_timezone.h
+END
+handle_request.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/25402/trunk/boinc/sched/handle_request.h
+END
+show_shmem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21181/trunk/boinc/sched/show_shmem.cpp
+END
+sched_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/25480/trunk/boinc/sched/sched_config.cpp
+END
+edf_sim.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/24024/trunk/boinc/sched/edf_sim.h
+END
+start
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/22723/trunk/boinc/sched/start
+END
+hr.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/24303/trunk/boinc/sched/hr.h
+END
+sched_msgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/22891/trunk/boinc/sched/sched_msgs.cpp
+END
+sched_shmem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/25258/trunk/boinc/sched/sched_shmem.cpp
+END
+single_job_assimilator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/22647/trunk/boinc/sched/single_job_assimilator.cpp
+END
+sched_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/25299/trunk/boinc/sched/sched_util.cpp
+END
+sched_result.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/24906/trunk/boinc/sched/sched_result.cpp
+END
+sched_hr.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/24484/trunk/boinc/sched/sched_hr.h
+END
+sched_array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/25314/trunk/boinc/sched/sched_array.cpp
+END
+hr_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/25432/trunk/boinc/sched/hr_info.cpp
+END
+sched_locality.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23636/trunk/boinc/sched/sched_locality.cpp
+END
+testasm.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/18389/trunk/boinc/sched/testasm.py
+END
+assimilator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/25259/trunk/boinc/sched/assimilator.cpp
+END
+trickle_credit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/24182/trunk/boinc/sched/trickle_credit.cpp
+END
+sched_limit.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23547/trunk/boinc/sched/sched_limit.h
+END
+plan_class_spec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/25467/trunk/boinc/sched/plan_class_spec.cpp
+END
+sched_customize.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/25467/trunk/boinc/sched/sched_customize.h
+END
+assimilate_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23241/trunk/boinc/sched/assimilate_handler.h
+END
+sched_send.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/25521/trunk/boinc/sched/sched_send.cpp
+END
+trickle_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/24182/trunk/boinc/sched/trickle_handler.h
+END
+update_stats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23509/trunk/boinc/sched/update_stats.cpp
+END
+handle_request.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/25500/trunk/boinc/sched/handle_request.cpp
+END
+hr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21093/trunk/boinc/sched/hr.cpp
+END
+credit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/25484/trunk/boinc/sched/credit.cpp
+END
+sample_bitwise_validator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/21735/trunk/boinc/sched/sample_bitwise_validator.cpp
+END
+sched_hr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/24484/trunk/boinc/sched/sched_hr.cpp
+END
+sample_trivial_validator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/24210/trunk/boinc/sched/sample_trivial_validator.cpp
+END
+file_upload_handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/25232/trunk/boinc/sched/file_upload_handler.cpp
+END
+transitioner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/25420/trunk/boinc/sched/transitioner.cpp
+END
+sample_hr_info.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13113/trunk/boinc/sched/sample_hr_info.txt
+END
+sched_score.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21674/trunk/boinc/sched/sched_score.h
+END
+sched_resend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/25461/trunk/boinc/sched/sched_resend.cpp
+END
+validate_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23978/trunk/boinc/sched/validate_util.cpp
+END
+db_purge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/25344/trunk/boinc/sched/db_purge.cpp
+END
+sched_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16726/trunk/boinc/sched/sched_result.h
+END
+sched_array.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/18255/trunk/boinc/sched/sched_array.h
+END
+hr_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/25017/trunk/boinc/sched/hr_info.h
+END
+sched_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/25402/trunk/boinc/sched/sched_main.cpp
+END
+sched_assign.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/25299/trunk/boinc/sched/sched_assign.cpp
+END
+validator.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21093/trunk/boinc/sched/validator.h
+END
+sched_locality.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/16726/trunk/boinc/sched/sched_locality.h
+END
+trickle_echo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/24182/trunk/boinc/sched/trickle_echo.cpp
+END
+assimilator.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/18431/trunk/boinc/sched/assimilator.py
+END
+sample_db_dump_spec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3684/trunk/boinc/sched/sample_db_dump_spec.xml
+END
+validate_util2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/24182/trunk/boinc/sched/validate_util2.cpp
+END
+credit_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23857/trunk/boinc/sched/credit_test.cpp
+END
+db_dump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22958/trunk/boinc/sched/db_dump.cpp
+END
+sched_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/25477/trunk/boinc/sched/sched_types.cpp
+END
+credit.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/24017/trunk/boinc/sched/credit.h
+END
+sched_score.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24484/trunk/boinc/sched/sched_score.cpp
+END
+time_stats_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/18826/trunk/boinc/sched/time_stats_log.h
+END
+validator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/25345/trunk/boinc/sched/validator.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/25426/trunk/boinc/sched/Makefile.am
+END
+sample_assimilator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19082/trunk/boinc/sched/sample_assimilator.cpp
+END
+sample_work_generator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/24500/trunk/boinc/sched/sample_work_generator.cpp
+END
+sched_resend.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16726/trunk/boinc/sched/sched_resend.h
+END
+validate_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21735/trunk/boinc/sched/validate_util.h
+END
