@@ -425,6 +425,12 @@ void DB_TEAM::db_parse(MYSQL_ROW &r) {
     ping_time = safe_atoi(r[i++]);
 }
 
+#ifdef __QNXNTO__
+bool finite(double d) {
+    return isfinite(d);
+}
+#endif
+
 // set NaNs and infs to zeroes
 //
 void HOST::fix_nans() {
