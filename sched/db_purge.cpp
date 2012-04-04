@@ -40,6 +40,10 @@
 #include <time.h>
 #include <errno.h>
 
+#ifdef __QNXNTO__
+#include <unix.h> // for ::setlinebuf
+#endif
+
 #include "boinc_db.h"
 #include "util.h"
 #include "filesys.h"
