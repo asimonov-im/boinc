@@ -1,10 +1,10 @@
 AC_DEFUN([BOINC_CHECK_FCGI],[
 if ( test "x${enable_server}" = "xyes" ) || ( test "x${enable_libraries}" = "xyes" ) ; then
   if test "x${enable_fcgi}" = "xyes" ; then
-    AC_MSG_CHECKING([if CFLAG '-include fcgi_stdio.h' works])
+    AC_MSG_CHECKING([if CFLAG '-Wp,-include,fcgi_stdio.h' works])
     AC_LANG_PUSH(C)
     save_cflags="${CFLAGS}"
-    CFLAGS="-I${prefix} -include fcgi_stdio.h -D_USING_FCGI_ ${CFLAGS}"
+    CFLAGS="-I${prefix} -Wp,-include,fcgi_stdio.h -D_USING_FCGI_ ${CFLAGS}"
     AC_COMPILE_IFELSE(
       AC_LANG_PROGRAM(
         [[
