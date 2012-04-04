@@ -48,6 +48,14 @@ const int Windows = 384;
 const int Darwin = 512;
 const int freebsd = 640;
 
+#ifdef __QNXNTO__
+inline const char *strcasestr(const char *haystack, const char *needle)
+{
+    // FIXME!
+    return strstr(haystack,needle);
+}
+#endif
+
 inline int os(HOST& host){
     if (strcasestr(host.os_name, "Linux")) return Linux;
     else if (strcasestr(host.os_name, "Windows")) return Windows;
