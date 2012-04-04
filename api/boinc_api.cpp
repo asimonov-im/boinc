@@ -1320,7 +1320,11 @@ static int start_worker_signals() {
     struct sigaction sa;
     itimerval value;
     sa.sa_handler = worker_signal_handler;
+#ifdef __QNXNTO__
+    sa.sa_flags = 0;
+#else
     sa.sa_flags = SA_RESTART;
+#endif
     sigemptyset(&sa.sa_mask);
     retval = sigaction(SIGALRM, &sa, NULL);
     if (retval) {
