@@ -39,7 +39,25 @@ union SEMUN {
     struct seminfo *__buf;
 };
 
+#ifdef __QNXNTO__
+#if 0
+struct SemEntry {
+    key_t key;
+    sem_t *sem;
+};
+
+static struct SemAdapter {
+    int next;
+    struct SemEntry[32];
+} *SemAdapterPtr;
+#endif
+#endif
+
 int create_semaphore(key_t key){
+#ifdef __QNXNTO__
+    fprintf(stderr, "FIXME: %s:%d Create semaphores\n", __FILE__, __LINE__);
+    return ERR_SEMGET;
+#else
     int id, retval;
     SEMUN s;
 
@@ -54,9 +72,14 @@ int create_semaphore(key_t key){
         return ERR_SEMCTL;
     }
     return 0;
+#endif
 }
 
 int destroy_semaphore(key_t key){
+#ifdef __QNXNTO__
+    fprintf(stderr, "FIXME: %s:%d Create semaphores\n", __FILE__, __LINE__);
+    return ERR_SEMGET;
+#else
     int id, retval;
     id = semget(key, 0, 0);
     if (id < 0) {
@@ -67,9 +90,14 @@ int destroy_semaphore(key_t key){
         return ERR_SEMCTL;
     }
     return 0;
+#endif
 }
 
 int lock_semaphore(key_t key) {
+#ifdef __QNXNTO__
+    fprintf(stderr, "FIXME: %s:%d Create semaphores\n", __FILE__, __LINE__);
+    return ERR_SEMGET;
+#else
     struct sembuf s;
     int id, retval;
 
@@ -85,9 +113,14 @@ int lock_semaphore(key_t key) {
         return ERR_SEMOP;
     }
     return 0;
+#endif
 }
 
 int unlock_semaphore(key_t key) {
+#ifdef __QNXNTO__
+    fprintf(stderr, "FIXME: %s:%d Create semaphores\n", __FILE__, __LINE__);
+    return ERR_SEMGET;
+#else
     struct sembuf s;
     int id, retval;
 
@@ -103,6 +136,7 @@ int unlock_semaphore(key_t key) {
         return ERR_SEMOP;
     }
     return 0;
+#endif
 }
 
 int get_key(char* path, int id, key_t& key) {
